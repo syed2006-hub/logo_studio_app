@@ -78,7 +78,7 @@ Design experimentation
 MVP for SaaS-based creative tools
 
 📷 Screenshots
-![Logo Studio](assets/poster.png)
+![Logo Studio](assets/5.png)
 
 
 📌 Project Status
