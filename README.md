@@ -8,7 +8,7 @@
 ---
 
 ## ⚡ Quick Navigation
-**[🚀 Explore Live Demo](https://syed2006-hub.github.io/logo_studio_app/)** | **[🔑 Request Access](#)** | **[📈 View Analytics](#)**
+**[🚀 Explore Live Demo](https://syed2006-hub.github.io/logo_studio_app/)**  
 
 ---
 
